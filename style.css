@@ -25,11 +25,7 @@ body{
 .innerline{
   border: #ffc0cb outset solid 5px;
 }
-   <!- sloppy copy right here for class fix later or at some time->
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
+   <!- sloppy copy right here for class fix later or at some time also there was a marginfor the body but idk i dont want that to mess with stuff->
 
 .topnav {
   overflow: hidden;
